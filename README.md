@@ -5,8 +5,8 @@ Eu decidi aprender a programar perto do final de 2020, e eu amei a área. Desde 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gbramone/)
 
-![Luiz Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=lPoltergeist&show_icons=true&theme=tokyonight)
-![Luiz Anderson GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lPoltergeist&theme=blue-green)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=lPoltergeist&show_icons=true&theme=react)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lPoltergeist&theme=react)
 
 ## Tecnologias que eu trabalho!
 <div style="display: inline_block">
