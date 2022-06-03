@@ -1,7 +1,7 @@
-### Olá! Eu sou Gabriel - Desenvolvedor Fron-End</br>
+### Eu sou Gabriel - Desenvolvedor Front-End</br>
 
 
-Sou apaixonado pela área de tecnologia da informação, estou em constante aprendizado, capacitação, buscando conhecimentos a cada dia para me tornar um profissional melhor.</br>
+Eu decidi aprender a programar perto do final de 2020, e eu amei a área. Desde então eu venho estudando toda semana e aprendendo coisas novas. Eu gostei bastante da parte de front-end, mas não me limito apenas a ela. Estudei o básico de back-end com node também. </br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gbramone/)
 
