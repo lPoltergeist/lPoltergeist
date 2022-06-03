@@ -10,7 +10,7 @@ Eu decidi aprender a programar perto do final de 2020, e eu amei a área. Desde 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=lPoltergeist&show_icons=true&theme=react)
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lPoltergeist&theme=react)
 
-## Tecnologias que eu trabalho!
+## Tecnologias que costumo usar:
 <div style="display: inline_block">
 <img align"center" height="80" align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> - 
 <img align"center" height="80" align="center" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> - 
