@@ -20,5 +20,5 @@ Eu decidi aprender a programar perto do final de 2020, e eu amei a área. Desde 
 <img align"center" height="80" align="center" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> - 
 <img align"center" width="200" align="center" alt="tailwindcss" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/> - 
 <img align"center" height="80" align="center" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> - 
-<img align"center" margin="10" height="80" align="center" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+
 </div>
