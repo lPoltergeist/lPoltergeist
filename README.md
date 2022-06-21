@@ -1,7 +1,7 @@
 ### Eu sou Gabriel - Desenvolvedor Front-End</br>
 
 
-Eu decidi aprender a programar perto do final de 2020, e eu amei a área. Desde então eu venho estudando toda semana e aprendendo coisas novas. Eu gostei bastante da parte de front-end, mas não me limito apenas a ela. Estudei o básico de back-end com node também. </br>
+Eu decidi aprender a programar perto do final de 2020, e eu amei a área. Desde então eu venho estudando toda semana e aprendendo coisas novas. Eu gostei bastante da parte de front-end, mas não me limito apenas a ela. Estou estudando bastante sobre back-end tamb. </br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gbramone/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/x.poltergeist/)
