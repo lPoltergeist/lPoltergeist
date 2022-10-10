@@ -1,4 +1,4 @@
-### Eu sou Gabriel - Desenvolvedor Front-End</br>
+### Gabriel - Desenvolvedor Front-End</br>
 
 
 Eu decidi aprender a programar perto do final de 2020, e eu amei a área. Desde então eu venho estudando toda semana e aprendendo coisas novas. Eu gostei bastante da parte de front-end, mas não me limito apenas a ela. Estou estudando bastante sobre back-end também. </br>
