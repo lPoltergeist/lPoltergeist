@@ -4,7 +4,7 @@
 Olá, meu nome é Gabriel e sou desenvolvedor frontend e backend desde 2020.
 Atuo na criação de sites, APIs e aplicações mobile, sempre focado em desenvolver soluções criativas e entregar o máximo de qualidade em cada projeto.
 Tenho experiência com diversas tecnologias, incluindo:
- React, React Native, Next.js, Vue, TypeScript, AdonisJS, NestJS, Styled-Components, Tailwind, PostgreSQL, MongoDB e Python. </br>
+ React, React Native, Next.js, Vue, TypeScript, AdonisJS, NestJS, Styled-Components, Tailwind, PostgreSQL, MongoDB e Python e Go. </br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gbramone/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/x.poltergeist/)
