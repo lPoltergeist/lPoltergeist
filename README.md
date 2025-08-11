@@ -16,8 +16,8 @@ Tenho experiência com diversas tecnologias, incluindo:
 ## Tecnologias que costumo usar:
 <div style="display: inline_block">
  <img align"center" height="80" align="center" alt="html5" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/go/go-original-wordmark.svg"/> - 
- <img align"center" height="80" align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> - 
- <img align"center" height="80" align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> - 
+ <img align"center" height="80" align="center" alt="html5" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/redis/redis-original-wordmark.svg"/> - 
+ <img align"center" height="80" align="center" alt="html5" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original-wordmark.svg"/> - 
 <img align"center" height="80" align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> - 
 <img align"center" height="80" align="center" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> - 
 <img align"center" height="80" align="center" alt="reactjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/> - 
