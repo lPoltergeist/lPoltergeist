@@ -6,7 +6,7 @@ Atuo na criação de sites, APIs e aplicações mobile, sempre focado em desenvo
 Tenho experiência com diversas tecnologias, incluindo:
  React, React Native, Next.js, Vue, TypeScript, AdonisJS, NestJS, Styled-Components, Tailwind, PostgreSQL, MongoDB e Python e Go. </br>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gbramone/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gboliveira1996/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/x.poltergeist/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:karanalpe@gmail.com)](mailto:gbmagalhaes1996@gmail.com)
 
