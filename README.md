@@ -1,7 +1,7 @@
 ### Gabriel - Desenvolvedor</br>
 
 
-Olá, meu nome é Gabriel e sou desenvolvedor frontend e backend desde 2020.
+Olá, meu nome é Gabriel e sou desenvolvedor frontend e backend.
 Atuo na criação de sites, APIs e aplicações mobile, sempre focado em desenvolver soluções criativas e entregar o máximo de qualidade em cada projeto.
 Tenho experiência com diversas tecnologias, incluindo:
  React, React Native, Next.js, Vue, TypeScript, AdonisJS, NestJS, Styled-Components, Tailwind, PostgreSQL, MongoDB e Python e Go. </br>
